@@ -19,7 +19,7 @@ import java.util.stream.IntStream;
  */
 
 public abstract class LambdaExpression implements Lambda {
-    
+    //hiiii
     
     public static void main(String[] args) {
         Lambda l1=()->9.8;
