@@ -10,5 +10,5 @@ package lambdaexpression;
  * @author esraa
  */
 public interface Lambda3 {
-    public boolean myMethod(int n,int m);//cc
+    public boolean myMethod(int n,int m);//cc////jlkjlkjlhhhhhhhhh
 }
